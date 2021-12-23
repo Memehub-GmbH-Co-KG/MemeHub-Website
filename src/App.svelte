@@ -18,10 +18,10 @@
 
 <style>
 	:global(:root) {
-		--color-primary: #f05454;
-		--color-primary-variant: #cf4545;
-		--color-secondary: #000000;
-		--color-secondary-variant: #242d36;
+		--color-primary: #4a1c1c;
+		--color-primary-variant: #2b0b0b;
+		--color-secondary: #ce9f76;
+		--color-secondary-variant: #c1b6ac;
 	}
 	:global(body) {
 		background-color: var(--color-primary);

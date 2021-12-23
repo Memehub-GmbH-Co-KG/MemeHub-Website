@@ -27,7 +27,7 @@
     </p>
     <h2>Which memes have been nominated?</h2>
     <p>
-        This year we have looked at about 1000 of your best memes and put them
+        This year we have looked at more than 500 of your best memes and put them
         into categories.
     </p>
     <hr />

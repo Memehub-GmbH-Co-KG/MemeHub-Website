@@ -22,5 +22,5 @@
     }
 </style>
 
-<h1>MemeHub Awards 2020</h1>
+<h1>MemeHub Awards 2021</h1>
 <InfoText {text} />
